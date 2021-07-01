@@ -1,0 +1,18 @@
+{
+  "name": "university-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./js/app.js,hbs,css"
+  },
+  "author": "arshd ansari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "globally": "0.0.0",
+    "hbs": "^4.1.2",
+    "nodemon": "^2.0.7"
+  }
+}
